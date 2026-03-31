@@ -1,4 +1,4 @@
-my resume and linkedin details
+
 # Hi, I'm Divya 👋
 
 💡 Aspiring QA Engineer passionate about software testing and continuous learning
