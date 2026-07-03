@@ -1,45 +1,91 @@
 
-# Hi, I'm Divya 👋
+# 👋 Hi, I'm Divya Venugopal
 
-💡 Aspiring QA Engineer passionate about software testing and continuous learning
+💡 **Aspiring QA Engineer | Manual & Automation Testing | Selenium | Java | TestNG**
 
-## 💼 About Me
-- Currently learning Selenium Automation
-- Building real-time testing projects
-- Improving problem-solving and analytical skills
+I'm passionate about software testing and continuously improving my automation skills by building real-world testing projects. My goal is to create reliable, maintainable, and scalable automation frameworks while ensuring software quality through effective testing practices.
 
-## 🛠 Skills
-- Java | Selenium | TestNG | Maven | Git | Manual Testing
+---
 
-## 📂 Projects
-MINI-PROJECT
-### 🔹 TOOLSHOP (E-commerce Web Application Testing)
+## 📌 About Me
 
-- Performed manual testing on an e-commerce application
-- Tested core functionalities such as login, product search, add to cart, and checkout
-- Designed and executed test cases based on requirements
-- Identified, reported, and tracked defects
-- Ensured application usability and functionality through thorough testing
+- 🌱 Learning and improving Selenium Automation Testing
+- 💻 Building real-time automation testing projects
+- 🧩 Strong interest in Software Quality Assurance
+- 📈 Continuously improving analytical and problem-solving skills
+- 🎯 Actively looking for QA Engineer / Software Test Engineer opportunities
 
-🛠 Tools & Skills:
-- Manual Testing | Test Case Design | Defect Reporting
+---
 
-📄 Test Artifacts:
-- Test Cases  
-- Test Scenarios  
-- Bug Reports  
-- Test Plan Document  
-- Test Summary Report  
-- Test Sign-off
+## 🛠 Tech Stack
 
-   MAIN PROJECT
-  # 🛒 Polymer Shop Automation Testing Project
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Java |
+| Automation | Selenium WebDriver |
+| Framework | TestNG |
+| Build Tool | Maven |
+| Version Control | Git, GitHub |
+| API Testing | Postman |
+| Database | MySQL |
+| Bug Tracking | JIRA |
+| IDE | Eclipse |
+
+---
+
+# 📂 Projects
+
+## 🔹 ToolShop – Manual Testing Project
+
+### Project Description
+
+Performed Manual Testing on an E-commerce web application by validating major user functionalities and ensuring software quality through structured testing.
+
+### Modules Tested
+
+- Login
+- Product Search
+- Product Details
+- Shopping Cart
+- Checkout
+
+### Responsibilities
+
+- Designed Test Scenarios
+- Wrote Test Cases
+- Executed Test Cases
+- Reported Defects
+- Performed Regression Testing
+- Prepared Test Summary Report
+
+### Test Artifacts
+
+- ✅ Test Plan
+- ✅ Test Scenarios
+- ✅ Test Cases
+- ✅ Bug Reports
+- ✅ Test Summary Report
+- ✅ Test Sign-off Document
+
+**Skills Used**
+
+- Manual Testing
+- SDLC
+- STLC
+- Test Case Design
+- Defect Reporting
+- Regression Testing
+
+---
+
+# 🛒 Polymer Shop Automation Testing Project
 
 ## 📌 Project Overview
 
-This project is an end-to-end automation testing framework developed for the Polymer Shop E-Commerce web application using Selenium WebDriver and Java. The framework follows the Page Object Model (POM) design pattern and automates key business workflows to ensure the application's functionality, reliability, and quality.
+Developed an end-to-end Selenium Automation Framework for the Polymer Shop E-Commerce application using Java, Selenium WebDriver, TestNG, Maven, and the Page Object Model (POM).
 
-Website Tested:
+🔗 **Application Under Test**
+
 https://shop.polymer-project.org/
 
 ---
@@ -58,19 +104,34 @@ https://shop.polymer-project.org/
 
 ---
 
+## 🏗 Framework Design
+
+This framework follows the **Page Object Model (POM)** architecture to improve code reusability, maintainability, and scalability.
+
+### Framework Components
+
+- Base Class
+- Page Objects
+- Utility Classes
+- Test Classes
+- TestNG XML Suite
+- Maven Project Structure
+
+---
+
 ## 📂 Project Structure
 
 ```
 PolymerShopAutomationProject
-│
+
 ├── src/main/java
-│   ├── pageObjects
-│   ├── base
-│   └── utilities
+│ ├── base
+│ ├── pageObjects
+│ └── utilities
 │
 ├── src/test/java
-│   ├── testCases
-│   └── testData
+│ ├── testCases
+│ └── testData
 │
 ├── src/test/resources
 │
@@ -81,53 +142,50 @@ PolymerShopAutomationProject
 
 ---
 
-## 🎯 Features Automated
+## 🎯 Automated Modules
 
-The automation framework covers the following modules:
+### 🏠 Home
 
-### 🏠 Home Page
-
-- Verify homepage loads successfully
-- Verify navigation menu
-- Verify category navigation
-- Verify cart icon visibility
+- Homepage Validation
+- Navigation Verification
+- Category Navigation
+- Cart Icon Validation
 
 ### 👕 Product Listing
 
-- Verify product listing page
-- Verify products are displayed
-- Verify navigation to product details
+- Product Display Validation
+- Product Navigation
+- Product Count Verification
 
 ### 📦 Product Details
 
-- Verify product title
-- Verify product price
-- Verify available sizes
-- Verify quantity selection
-- Verify Add to Cart functionality
+- Product Title
+- Product Price
+- Size Selection
+- Quantity Selection
+- Add to Cart
 
 ### 🛒 Shopping Cart
 
-- Verify added products
-- Verify product quantity
-- Verify cart updates
-- Verify checkout navigation
+- Product Validation
+- Quantity Update
+- Checkout Navigation
 
 ### 💳 Checkout
 
-- Verify checkout form
-- Validate mandatory fields
-- Validate email and phone fields
-- Verify order summary
-- Verify successful order placement
+- Mandatory Field Validation
+- Email Validation
+- Phone Validation
+- Order Summary
+- Order Placement
 
 ---
 
-## ✅ Testing Types Performed
+## ✅ Testing Types Covered
 
 - Manual Testing
-- Automation Testing
 - Functional Testing
+- Automation Testing
 - Smoke Testing
 - Regression Testing
 - Sanity Testing
@@ -136,22 +194,7 @@ The automation framework covers the following modules:
 
 ---
 
-## 🏗 Framework Design
-
-This project follows the **Page Object Model (POM)** design pattern for better maintainability and reusability.
-
-Key components include:
-
-- Base Class
-- Page Object Classes
-- Test Classes
-- Utility Classes
-- TestNG XML Suite
-- Maven Build Management
-
----
-
-## ⚙ Tools Used
+## ⚙️ Tools Used
 
 | Tool | Purpose |
 |------|----------|
@@ -160,23 +203,23 @@ Key components include:
 | TestNG | Test Execution |
 | Maven | Build Management |
 | Git | Version Control |
-| GitHub | Repository Management |
-| JIRA | Defect Tracking |
+| GitHub | Repository Hosting |
+| JIRA | Bug Tracking |
 | Eclipse | IDE |
 
 ---
 
-## ▶ How to Run the Project
+# ▶️ Running the Project
 
-### Clone Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/divyavngpl7-boop/PolymerShopAutomationProject.git
 ```
 
-### Open Project
+### Import Project
 
-Import the project into Eclipse or IntelliJ as an Existing Maven Project.
+Import as an **Existing Maven Project** in Eclipse or IntelliJ IDEA.
 
 ### Install Dependencies
 
@@ -186,9 +229,9 @@ mvn clean install
 
 ### Execute Tests
 
-Run:
+Using TestNG:
 
-```
+```bash
 testng.xml
 ```
 
@@ -200,56 +243,42 @@ mvn test
 
 ---
 
-## 📈 Highlights
+# ✨ Project Highlights
 
-✔ End-to-End Automation Framework
-
-✔ Selenium WebDriver with Java
-
-✔ Page Object Model Design Pattern
-
-✔ TestNG Framework
-
-✔ Maven Project
-
-✔ Git Version Control
-
-✔ Modular & Reusable Code
-
-✔ Scalable Framework
+- End-to-End Automation Framework
+- Selenium WebDriver with Java
+- Page Object Model Design Pattern
+- TestNG Framework
+- Maven Build Management
+- Modular & Reusable Code
+- Git Version Control
+- Scalable Project Structure
 
 ---
 
-## 📌 Future Enhancements
+# 🚀 Future Enhancements
 
-- Data-Driven Testing using Excel
+- Data-Driven Testing (Excel)
 - Cross Browser Testing
 - Jenkins CI/CD Integration
 - Extent Reports
 - Screenshot Capture on Failure
-- Parallel Test Execution
+- Parallel Execution
 - Docker Integration
 
 ---
 
-## 👩 Author
+# 📫 Connect With Me
 
 **Divya Venugopal**
 
-Software Test Engineer
+📧 Email: **divyavngpl7@gmail.com**
 
-📧 divyavngpl7@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/divya-venugopal7
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/divya-venugopal7
-
-🔗 GitHub:
-https://github.com/divyavngpl7-boop
+💻 GitHub: https://github.com/divyavngpl7-boop
 
 ---
 
-## ⭐ If you found this project useful, feel free to Star the repository.
+⭐ **If you found this project helpful, please consider giving it a Star!**7@gamil.com
 
-## 📫 Contact
-- 📧 divyavngpl7@gamil.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/divya-venugopal7)
